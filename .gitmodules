@@ -1,0 +1,3 @@
+[submodule "externalLibrary/htmlFile"]
+	path = externalLibrary/htmlFile
+	url = https://github.com/ariemay/sub_module_demo.git
